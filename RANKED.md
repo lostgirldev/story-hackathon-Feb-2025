@@ -12,7 +12,7 @@
 
     *   **Reasoning:** This implementation has all the positives that all the others implementations have but is missing license terms attachment.
 
-4.  **[https://github.com/brainrotbot/agent-communication-client](https://github.com/davidbegin/brainrotbot)**
+4.  **[[https://github.com/brainrotbot/agent-communication-client](https://github.com/davidbegin/brainrotbot)](https://github.com/davidbegin/brainrotbot)**
 
     *   **Reasoning:** This project implements IP Asset Registration, Derivative IP registration, attaching licenses, and minting / registering IP assets in one transaction. It is also has good logging with a defined logger and has well organized files, however, there is some code duplication, as well as missing error handling.
 
