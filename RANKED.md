@@ -37,14 +37,6 @@
 
     *   **Reasoning:** The Derive project implements IP asset registration using `storyClient.ipAsset.mintAndRegisterIp` and utilizes `uploadMetadataToIPFS` to store IP and NFT metadata. However, these metadata formats do not fully comply with the Story Protocol specification, and doesn't propperly follow the schema for IP Metadata.
 
-10. **[https://github.com/ariceggers/xebOS](https://github.com/ariceggers/xebOS)**
+10. **[https://github.com/royalnine/eliza/tree/story_hackathon](https://github.com/royalnine/eliza/tree/story_hackathon)**
 
-    *   **Reasoning:** Implements only IP Asset Registration, attempts to implement it. There are concerns with Metadata, and it has many missing features from story-protocol.
-
-11. **[https://github.com/edwin-finance/edwin](https://github.com/edwin-finance/edwin)**
-
-    *   **Reasoning:** This plugin demonstrates an *attempt* to integrate with the Story Protocol. However, the current implementation is incomplete and of low quality due to the mock client, hardcoded values, and missing features.
-
-12. **[https://github.com/AtharavJadhav/story-litreview-ai-agent](https://github.com/AtharavJadhav/story-litreview-ai-agent)**
-
-    *   **Reasoning:** It implements IP Asset Registration and License Management but the implementation quality is limited by hardcoded values, minimal metadata, and missing features.
+    *   **Reasoning:** Integrates Story features in eliza framework.
